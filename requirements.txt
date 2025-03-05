@@ -5,3 +5,4 @@ dropbox
 supabase
 apscheduler
 azure-storage-blob
+gunicorn
