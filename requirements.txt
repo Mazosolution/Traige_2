@@ -4,4 +4,4 @@ google-generativeai
 dropbox
 supabase
 apscheduler
-azure
+azure-storage-blob
